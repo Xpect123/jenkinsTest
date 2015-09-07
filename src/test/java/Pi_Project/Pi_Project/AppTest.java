@@ -19,7 +19,8 @@ public class AppTest
     {
         super( testName );
 	System.out.println("Hello Test!");
-    }
+	System.out.println("Update sucessful");
+	}
 
     /**
      * @return the suite of tests being tested
