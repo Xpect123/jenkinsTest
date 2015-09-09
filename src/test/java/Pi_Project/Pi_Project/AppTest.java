@@ -20,7 +20,7 @@ public class AppTest
         super( testName );
 	System.out.println("Hello Test!");
 	System.out.println("Update sucessful");
-	System.out.println("first step to CI");
+	System.out.println("first step to CI + second");
 	}
 
     /**
