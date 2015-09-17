@@ -21,6 +21,7 @@ public class AppTest
 	System.out.println("Hello Test!");
 	System.out.println("Update sucessful");
 	System.out.println("first step to CI + second");
+	System.out.println("test der dritte 17.9");
 	}
 
     /**
