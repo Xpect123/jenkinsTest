@@ -23,6 +23,7 @@ public class AppTest
 	System.out.println("first step to CI + second");
 	System.out.println("test der dritte 17.9");
 	System.out.println("Wie laeufts denn so 28.09");
+	System.out.println("Bitte Polling 5.10");
 	
 	}
 
